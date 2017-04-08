@@ -1,0 +1,14 @@
+{
+    "name": "howye/test",
+    "description": "this is test",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "caihao",
+            "email": "909429077@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
